@@ -151,7 +151,7 @@ Then open the local URL displayed by Streamlit.
 ## Live Prototype
 
 **Streamlit App:**
-yw
+https://daily-brief-aionos-agent-teceryrh8watdkg32fkrgh.streamlit.app/
 
 ## Project Repository
 
